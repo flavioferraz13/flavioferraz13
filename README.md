@@ -1,12 +1,12 @@
-# Olá, eu sou [Seu Nome] 👋
+# Olá, eu sou [Flávio Ferraz] 👋
 
 Bem-vindo ao meu perfil GitHub!
 
 ## 🚀 Principais Linguagens Usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flavioferraz13&layout=compact&theme=radical)
 
 ## 📊 Minhas Estatísticas GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&count_private=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=flavioferraz13&show_icons=true&count_private=true&theme=radical)
 
 ## 📫 Como me encontrar
 - [LinkedIn](https://linkedin.com/in/seuusuario)
