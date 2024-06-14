@@ -2,16 +2,49 @@
 
 Bem-vindo ao meu perfil GitHub!
 
+## Sobre mim
+
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software para geração de indicadores e análises avançadas.
+- 💼 Trabalhando como {Analista de Dados} na {Granitos Collodetti}.
+- 🌱 Aprendendo mais sobre {Ciência de Dados e Machine Learning}.
+
+## Minhas Skills
+
 ## 🚀 Principais Linguagens Usadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flavioferraz13&layout=compact&theme=radical)
 
-## 📊 Minhas Estatísticas GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=flavioferraz13&show_icons=true&count_private=true&theme=radical)
+**Aplicações e dados**
 
-## 📫 Como me encontrar
-- [LinkedIn](https://linkedin.com/in/seuusuario)
-- [Twitter](https://twitter.com/seuusuario)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
+**Utilidades**
+
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+**Ferramentas de desenvolvimento**
+
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+
+<br/>
+
+<a href="https://github.com/iuricode" title="Perfil do Iuri">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+</a>
+
+## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fl%C3%A1vio-ferraz-2648a7149/)](https://www.linkedin.com/in/fl%C3%A1vio-ferraz-2648a7149/)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:flavio.consultoriabi@gmail.com)](mailto:flavio.consultoriabi@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/flavioferraz13)
 
 <!--
 **flavioferraz13/flavioferraz13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
