@@ -20,7 +20,8 @@ Bem-vindo ao meu perfil GitHub!
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![Alt](https://static.wixstatic.com/media/3ee1d0_beb542cd4bd6455fa3fd2d06a360e716~mv2.png/v1/fill/w_704,h_193,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/3ee1d0_beb542cd4bd6455fa3fd2d06a360e716~mv2.png "Title")
+![Static Badge](https://img.shields.io/badge/:badgeContent?link=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2F3ee1d0_beb542cd4bd6455fa3fd2d06a360e716~mv2.png%2Fv1%2Ffill%2Fw_704%2Ch_193%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_auto%2F3ee1d0_beb542cd4bd6455fa3fd2d06a360e716~mv2.png)
+
 
 **Utilidades**
 
