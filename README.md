@@ -5,8 +5,8 @@ Bem-vindo ao meu perfil GitHub!
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software para geração de indicadores e análises avançadas.
-- 💼 Trabalhando como {Analista de Dados} na {Granitos Collodetti}.
-- 🌱 Aprendendo mais sobre {Ciência de Dados e Machine Learning}.
+- 💼 Trabalhando como Analista de Dados na Granitos Collodetti.
+- 🌱 Aprendendo mais sobre Ciência de Dados e Machine Learning.
 
 ## Minhas Skills
 
@@ -42,8 +42,8 @@ Bem-vindo ao meu perfil GitHub!
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fl%C3%A1vio-ferraz-2648a7149/)](https://www.linkedin.com/in/fl%C3%A1vio-ferraz-2648a7149/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:flavio.consultoriabi@gmail.com)](mailto:flavio.consultoriabi@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fl%C3%A1vio-ferraz-2648a7149/)](https://www.linkedin.com/in/fl%C3%A1vio-ferraz-2648a7149/)
+[![Gmail Badge](https://img.shields.io/badge/-flavio.consultoriabi@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:flavio.consultoriabi@gmail.com)](mailto:flavio.consultoriabi@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/flavioferraz13)
 
 <!--
