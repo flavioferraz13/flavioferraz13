@@ -37,8 +37,8 @@ Bem-vindo ao meu perfil GitHub!
 
 <br/>
 
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+<a href="https://github.com/flavioferraz13" title="Perfil do Flávio">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flavioferraz13&theme=dracula&show_icons=true" />
 </a>
 
 ## Onde me encontrar
